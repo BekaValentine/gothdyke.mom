@@ -1,3 +1,6 @@
 [submodule "p2p_reference"]
 	path = p2p_reference
 	url = https://github.com/BekaValentine/p2p_reference
+[submodule "python_site_generator"]
+	path = python_site_generator
+	url = https://github.com/BekaValentine/python_site_generator
